@@ -68,3 +68,5 @@ The CHANGES here:
 3. Start and game over screen not implemeneted yet
 4. HUD is not available -> attempt to do but failed to work
 5. Only the player shot, only certain enemy, and enemy shot works.
+6. Power up not available.
+7. Implemeneted the basic enemy that shoot regularly including variant projectiles and few objects works so well.
